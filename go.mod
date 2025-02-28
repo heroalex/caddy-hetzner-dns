@@ -1,4 +1,4 @@
-module github.com/caddy-dns/hetzner
+module github.com/heroalex/caddy-hetzner-dns
 
 go 1.17
 
